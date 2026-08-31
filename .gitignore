@@ -1,0 +1,17 @@
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# Build artifacts
+*.zip
+*.crx
+*.pem
+
+# Node (tests only)
+node_modules/
